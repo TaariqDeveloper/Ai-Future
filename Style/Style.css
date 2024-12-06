@@ -215,6 +215,26 @@ button{
 .section5-row{
    margin-top: 5%;
 }
+/* section7 */
+.section7{
+   width: 100%;
+   background-color: #371373;
+   height: 2000px;
+   margin-top: 10%;
+}
+.section7 h2{
+   text-align: center;
+   padding-top: 20px;
+   font-size: 20px;
+   font-family: 'Times New Roman', Times, serif;
+   color: #c281d2;
+}
+.section7 h1{
+   text-align: center;
+   font-size: 35px;
+   color: white;
+   padding-top: 10px;
+}
 
 
 
@@ -364,6 +384,13 @@ button{
 }
 .section-left h2{
    font-size: 30px;
+}
+
+.section7{
+   width: 100%;
+   background-color: #371373;
+   height: 2700px;
+   margin-top: 10%;
 }
    
    
