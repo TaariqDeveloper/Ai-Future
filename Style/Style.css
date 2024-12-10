@@ -219,7 +219,7 @@ button{
 .section7{
    width: 100%;
    background-color: #371373;
-   height: 2000px;
+   height: 1600px;
    margin-top: 10%;
 }
 .section7 h2{
@@ -235,8 +235,48 @@ button{
    color: white;
    padding-top: 10px;
 }
+.section8{
+   margin-top: 4em;
 
+}
+.section8 h4{
+   color: blue;
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bold;
+   padding-bottom: 1em;
+}
+.section8 h1{
+   text-align: center;
+   font-size: 35px;
+   padding-bottom: 2em;
+}
+.section8-left h2{
+   color: blue;
+   font-size: 50px;
+   font-weight: bold;
+   
+}
+.section8-left h3{
+   font-weight: bold;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   font-size: 20px;
+}
+.section8-left{
+   width: 400px;
 
+}
+.section8-left p{
+   font-size: 15px;
+   padding-top: 5px;
+}
+.row{
+   display: flex;
+   justify-content: center;
+   padding-bottom: 3em;
+   gap: 50px;
+}
 
 
 
@@ -389,7 +429,7 @@ button{
 .section7{
    width: 100%;
    background-color: #371373;
-   height: 2700px;
+   height: 3000px;
    margin-top: 10%;
 }
    
